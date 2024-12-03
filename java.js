@@ -4,4 +4,4 @@ onload = () => {
     clearTimeout(c);
   }, 1000);
 };
-alert("Hello");
+alert("For the most beautiful girl in the world ");
